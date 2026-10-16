@@ -1,25 +1,58 @@
-MJ Retail — Sales Analytics & DAX Practice
-This is a Power BI practice project I worked on to practise DAX and build a sales dashboard.
-What's included
-- MJ_Retail_Sales_Analytics.pbix — the Power BI file. It contains my data model, DAX measures/calculated columns/tables, and report pages.
-- MJ_Retail_Sales_Practice_Dataset.csv — the synthetic sales dataset used for this project.
-- Power_BI_DAX_Practice_Questions.pdf — the practice questions provided for the assignment. The questions are here; my DAX work is in the Power BI file.
-Dashboard pages
-1. Sales Overview — key sales KPIs and overall sales trends.
-2. Product Analysis — product and category performance.
-3. Insights — key findings and recommendations based on the dashboard.
-Dataset
-The dataset is synthetic and was created with the help of AI for practice purposes. It does not represent real customer or business records.
-Dashboard screenshots :
-Sales Overview
-![Sales overview](<img width="1325" height="742" alt="Screenshot 2026-10-16 131614" src="https://github.com/user-attachments/assets/aaa1aed8-1f78-43d9-a80b-a588de8115fa" />
-)
-Product Analysis
+# MJ Retail — Sales Analytics & DAX Practice
 
-Insights
+This is a Power BI project I completed as part of my data analytics learning. I practised DAX and used the results to build an interactive sales dashboard.
 
-Tools used
+## Project Overview
+
+The project focuses on analysing retail sales, product performance, regional performance, payment preferences, and business insights using Power BI.
+
+## Files Included
+
+- **MJ_Retail_Sales_Analytics.pbix** — Contains the data model, DAX measures, calculated columns, calculated tables, and the three-page dashboard.
+- **MJ_Retail_Sales_Practice_Dataset.csv** — The dataset used for the analysis.
+- **Power_BI_DAX_Practice_Questions.pdf** — The DAX practice questions and dataset setup instructions provided for the assignment.
+
+## Dataset
+
+The dataset is a **synthetic retail sales dataset created with the help of AI for learning and practice purposes**. It does not represent actual business transactions or real customer records.
+
+The dataset includes order dates, products, categories, cities, regions, salespersons, quantities, prices, discounts, costs, payment modes, and ratings.
+
+## Dashboard Pages
+
+### 1. Sales Overview
+Shows key performance indicators, monthly sales trends, salesperson performance, city sales, payment preferences, and regional sales.
+
+### 2. Product Analysis
+Explores product and category performance to identify top-performing products and sales patterns.
+
+### 3. Insights
+Summarises key findings from the analysis and provides recommendations for further investigation and improvement.
+
+## Dashboard Screenshots
+
+### Sales Overview
+_Add Sales Overview screenshot here._
+
+### Product Analysis
+_Add Product Analysis screenshot here._
+
+### Insights
+_Add Insights screenshot here._
+
+## Tools Used
+
 - Power BI Desktop
-- DAX
-- Synthetic sales data
-This project is for learning and practice. The DAX solutions and dashboard are included in the Power BI file.
+- DAX (Data Analysis Expressions)
+- CSV dataset
+- GitHub
+
+## What I Practised
+
+- Creating measures, calculated columns, and calculated tables using DAX.
+- Analysing sales, profit, quantity, and order performance.
+- Using functions such as `CALCULATE`, `FILTER`, `SUMMARIZE`, and `TOPN`.
+- Building dashboard visuals, KPIs, and slicers.
+- Presenting findings and recommendations based on the analysis.
+
+This project helped me practise DAX and apply it to an interactive sales dashboard as part of my ongoing data analytics learning.
