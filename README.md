@@ -32,7 +32,7 @@ Summarises key findings from the analysis and provides recommendations for furth
 ## Dashboard Screenshots
 
 ### Sales Overview
-_Add Sales Overview screenshot here._
+![Sales Overview](Sales-overview.png)
 
 ### Product Analysis
 _Add Product Analysis screenshot here._
