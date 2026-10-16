@@ -32,13 +32,13 @@ Summarises key findings from the analysis and provides recommendations for furth
 ## Dashboard Screenshots
 
 ### Sales Overview
-![Sales Overview](Sales%overview.png)
+![Sales Overview](Sales%20overview.png)
 
 ### Product Analysis
-_Add Product Analysis screenshot here._
+![Product Analysis](Product%20Analysis.png)
 
 ### Insights
-_Add Insights screenshot here._
+![Insights](Insights%20and%20recommendations.png)
 
 ## Tools Used
 
