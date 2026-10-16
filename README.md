@@ -1,16 +1,16 @@
 # MJ Retail — Sales Analytics & DAX Practice
 
-This is a Power BI project I completed as part of my data analytics learning. I practised DAX and used the results to build an interactive sales dashboard.
+A Power-BI project I created as part of my data analytics learning journey. Its on a sales dataset, I analysed the data and gained insights using DAX queries and created an interactive dashboard.
 
 ## Project Overview
 
-The project focuses on analysing retail sales, product performance, regional performance, payment preferences, and business insights using Power BI.
+The project focuses on analysing retail sales, product performance, regional performance, payment preferences, and business findings using Power BI.
 
 ## Files Included
 
-- **MJ_Retail_Sales_Analytics.pbix** — Contains the data model, DAX measures, calculated columns, calculated tables, and the three-page dashboard.
-- **MJ_Retail_Sales_Practice_Dataset.csv** — The dataset used for the analysis.
-- **Power_BI_DAX_Practice_Questions.pdf** — The DAX practice questions and dataset setup instructions provided for the assignment.
+- **[MJ_Retail_Sales_Analytics.pbix](MJ-Retail-Sales-Analytics.pbix)** — Power BI dashboard and DAX work.
+- **[MJ-Retail-Sales-Practice-Dataset.csv](MJ-Retail-Sales-Practice-Dataset.csv)** — Dataset used for the analysis.
+- **[Power_BI_DAX_Practice_Questions.pdf](Power_BI_DAX_Practice_Questions.pdf)** — DAX practice questions and dataset setup instructions.
 
 ## Dataset
 
